@@ -4,6 +4,5 @@
 </head>
 <body>
 Testing this.
-<?php echo "And this.."?>
 </body>
 </html>
