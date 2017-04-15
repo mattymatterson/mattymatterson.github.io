@@ -3,6 +3,7 @@
 <title>Matt Weston</title>
 </head>
 <body>
-Hey guys.
+Testing this.
+<?php echo "And this.."?>
 </body>
 </html>
